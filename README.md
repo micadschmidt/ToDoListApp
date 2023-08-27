@@ -1,4 +1,4 @@
-Exercise: To-Do List Application
+# Exercise: To-Do List Application
 
 Practice your Ruby! Read the instructions below. There is a little help under de title "Execution". DO NOT use it unless you are blocked. Your task is to create a basic To-Do List application using Ruby on Rails. The application should allow users to:
 
