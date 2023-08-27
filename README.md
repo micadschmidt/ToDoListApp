@@ -40,6 +40,7 @@ Add a button next to each task in the list that, when clicked, deletes the task 
 rails new ToDoListApp
 
 -Generate a Task Model and Controller:
+`` bash 
 cd ToDoListApp
 
 rails generate scaffold Task title:string completed:boolean
